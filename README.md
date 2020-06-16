@@ -1,4 +1,4 @@
-# Human User Guide Template
+# My Human User Guide
 
 ## About me
 
