@@ -47,36 +47,3 @@ Reacting to conflict, I like to talk about it as soon as possible to avoid misun
 * Teach me the new stuff you learned the other day
 * Help sometimes with a [duck rubber debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging). It's needed :see_no_evil:
 * Grab some :beers:
-
-## About my interactions
-
-### How do you coach people to do their best work and develop their talents?
-When coaching people 
-* I like to do brainstormings on what are the points of improvement
-* I like to define clear and measurable objectives
-* I like to congratulate success
-* I like to teach what I know and learn from what I don't
-* I like sometimes to push people out of their comfort zone, so this one becomes bigger :wink:
-
-### What’s the best way to communicate with you?
-* Slack me (I have it on my phone if you mention me)
-* Open an issue if you expect it asynchronously
-* Do a quick call if in the same timezone for something longer
-
-> A quick call of 2 minutes can solve days of messaging from one to another, and brings more context (camera and voice)
-
-### What’s the best way to convince you to do something?
-* Give me arguments, measurements or whatever that objectively demonstrates the assumptions.
-* Find cases that my solution don't fulfill
-
-### How do you like to give feedback?
-I like to give it based on experiences and with examples of the good/bad things and then have a chat on how to improve further. Of course, how the feedback is given to someone will depend on how this person likes to receive it.
-
-### How do you like to get feedback?
-Give it:
-* Calmed, everyone wants to improve and be better
-* As soon as possible
-* Constructively and maybe with tips on how to improve
-* Face to face, I like it as a conversation
-* Honest, don't hide what you think
-* Say the good and the bad things
