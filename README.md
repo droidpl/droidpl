@@ -1,8 +1,21 @@
 
 <p align="center"> <h1 align="center">:wave: Nice to see you :smiley_cat: </h1> <p>
 
-<p align="center">This is <a href="https://droidpl.me">@droidpl</a></p>
-<p align="center"><a href="https://droidpl.me"><img src="https://github-readme-stats.vercel.app/api?username=droidpl&show_icons=true&theme=merko" /></a></p>
+<p align="center">
+<table>
+  <tr>
+    <p align="center">This is <a href="https://droidpl.me">@droidpl</a></p>
+  </tr>
+  <tr>
+    <td>
+<p align="center"><a href="https://droidpl.me"><img src="https://github-readme-stats.vercel.app/api?username=droidpl&show_icons=true&bg_color=0B0B0B&title_color=88DCF4&text_color=fff&icon_color=88DCF4&hide_border=true" /></a></p>
+    </td>
+    <td>
+<p align="center"><a href="https://droidpl.me"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=droidpl&show_icons=true&bg_color=0B0B0B&title_color=88DCF4&text_color=fff&icon_color=88DCF4&hide_border=true" /></a></p>
+    </td>
+  </tr>
+</table>
+</p>
 
 *******
 
