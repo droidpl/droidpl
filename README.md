@@ -1,7 +1,7 @@
 
 <p align="center"> <h1 align="center">:wave: Nice to see you :smiley_cat: </h1> <p>
 
-<p align="center">This is [@droidpl](https://droidpl.me).</p>
+<p align="center">This is <a href="https://droidpl.me">@droidpl</a></p>
 <p align="center"><a href="https://droidpl.me"><img src="https://github-readme-stats.vercel.app/api?username=droidpl&show_icons=true&theme=merko" /></a></p>
 
 *******
