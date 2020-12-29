@@ -1,10 +1,11 @@
 ## :wave: Nice to see you :smiley_cat:
 
-_This is @droidpl._
+<p align="center">This is @droidpl.</p>
+<p align="center"><a href="https://droidpl.me"><img src="https://github-readme-stats.vercel.app/api?username=droidpl" /></a></p>
 
 **I am**:
 
-A software engineer currently working as Senior Solution Architect at [GitHub](https://github.com/)
+A software engineer currently working as a **Senior Solution Architect at [GitHub](https://github.com/)**
 :sunny: :smile_cat:
 
 **I work with**:
@@ -25,7 +26,7 @@ A software engineer currently working as Senior Solution Architect at [GitHub](h
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
 </p>
 
-
+**I speak Spanish, English and**:
 <p>
     <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
     <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
@@ -37,15 +38,12 @@ A software engineer currently working as Senior Solution Architect at [GitHub](h
 
 
 **I love**:
-<p> :musical_note: :microphone: :computer: :ski: :space_invader: :clapper:</p>
-<p>:octocat: :earth_africa: :earth_asia: :earth_americas: :octocat: </p>
-
+<p> :musical_note: &nbsp; :microphone: &nbsp; :computer: &nbsp; :ski: &nbsp; :space_invader: &nbsp; :clapper:</p>
+<p>:octocat: &nbsp; :earth_africa: &nbsp; :earth_asia: &nbsp; :earth_americas: &nbsp; :octocat: </p>
 
 
 *******
-<p align="center">
-  <a href="https://droidpl.me"><img src="https://github-readme-stats.vercel.app/api?username=droidpl" /></a>
-<p>
+
 <p align="center">
   <b>Find me as @droidpl</b>
   <p align="center">
