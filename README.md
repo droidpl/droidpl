@@ -65,7 +65,7 @@ A software engineer currently working as a **Senior Solution Architect at [GitHu
   <p align="center">
     <a href="https://linkedin.com/in/javierdepedrolopez"><img src="https://svgshare.com/i/SiT.svg" height=30 /></a>
     &nbsp;
-    <a href="https://stackoverflow.com/droidpl"><img src="https://svgshare.com/i/ShT.svg" height=30 /></a>
+    <a href="https://stackoverflow.com/users/1560067/droidpl"><img src="https://svgshare.com/i/ShT.svg" height=30 /></a>
     &nbsp;
     <a href="https://instagram.com/droidpl"><img src="https://svgshare.com/i/ShE.svg" height=30 /></a>
     &nbsp;
