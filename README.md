@@ -17,8 +17,6 @@
 </table>
 </p>
 
-*******
-
 **I am**:
 
 A software engineer currently working as a **Senior Solution Architect at [GitHub](https://github.com/)**
@@ -42,7 +40,7 @@ A software engineer currently working as a **Senior Solution Architect at [GitHu
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
 </p>
 
-**I speak Spanish, English and**:
+**I speak Spanish :es:, English :us: and**:
 <p>
     <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
     <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
