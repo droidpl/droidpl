@@ -27,7 +27,7 @@
 
 **I am**:
 
-A software engineer formerly working as a **Senior Solution Architect at [GitHub](https://github.com/)**
+A software engineer formerly working as a **Solution Architect at [Stripe](https://stripe.com/)**
 :sunny: :smile_cat:
 
 **I work with**:
